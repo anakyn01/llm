@@ -1,0 +1,7 @@
+streamlit
+openai
+jinja2
+pillow
+python-docx
+pypdf
+python-dotenv
